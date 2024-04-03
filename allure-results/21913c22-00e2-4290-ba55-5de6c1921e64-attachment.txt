@@ -1,0 +1,4 @@
+INFO     test_teams:test_teams.py:42 __Test One
+INFO     test_teams:test_teams.py:43 __Adding Member
+INFO     test_teams:test_teams.py:52 __Successful login
+INFO     test_teams:test_teams.py:55 ____________Team on header is clicked.

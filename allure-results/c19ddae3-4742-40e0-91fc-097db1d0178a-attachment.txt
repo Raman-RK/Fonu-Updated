@@ -1,0 +1,12 @@
+[92m2024-02-13 15:51:53,130 :INFO :member_test :__Test One[0m
+[92m2024-02-13 15:51:53,131 :INFO :member_test :__Adding Member[0m
+[92m2024-02-13 15:51:55,199 :INFO :member_test :__Successful login[0m
+[92m2024-02-13 15:51:58,231 :INFO :member_test :____________Team on header is clicked.[0m
+[92m2024-02-13 15:52:00,516 :INFO :member_test :____________Clicked add member.[0m
+[92m2024-02-13 15:52:00,668 :INFO :member_test :____________First name is entered.[0m
+[92m2024-02-13 15:52:00,761 :INFO :member_test :____________Last name is entered.[0m
+[92m2024-02-13 15:52:00,919 :INFO :member_test :Email is entered.[0m
+[92m2024-02-13 15:52:01,056 :INFO :member_test :____________Phone number is entered[0m
+[92m2024-02-13 15:52:01,120 :INFO :member_test :____________Clicked on dropdown to select the role[0m
+[92m2024-02-13 15:52:03,395 :INFO :member_test :____________Selected the role[0m
+[92m2024-02-13 15:52:07,824 :INFO :member_test :__Member added successfully[0m

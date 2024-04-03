@@ -1,0 +1,12 @@
+INFO     member_test:member_test.py:40 __Test One
+INFO     member_test:member_test.py:41 __Adding Member
+INFO     member_test:member_test.py:50 __Successful login
+INFO     member_test:member_test.py:53 ____________Team on header is clicked.
+INFO     member_test:member_test.py:57 ____________Clicked add member.
+INFO     member_test:member_test.py:59 ____________First name is entered.
+INFO     member_test:member_test.py:61 ____________Last name is entered.
+INFO     member_test:member_test.py:63 Email is entered.
+INFO     member_test:member_test.py:65 ____________Phone number is entered
+INFO     member_test:member_test.py:67 ____________Clicked on dropdown to select the role
+INFO     member_test:member_test.py:72 ____________Selected the role
+INFO     member_test:member_test.py:78 __Member added successfully

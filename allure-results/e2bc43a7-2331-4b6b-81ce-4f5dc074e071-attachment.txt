@@ -1,0 +1,6 @@
+[92m2024-02-13 15:51:07,015 :INFO :test_teams :__Clicked on the teams in sidebar[0m
+[92m2024-02-13 15:51:07,117 :INFO :test_teams :__Clicked on the create team.[0m
+[92m2024-02-13 15:51:07,254 :INFO :test_teams :__Team name is entered.[0m
+[92m2024-02-13 15:51:07,347 :INFO :test_teams :__Clicked on 'Select dropdown'[0m
+[92m2024-02-13 15:51:30,278 :INFO :test_teams :__Selected on member.[0m
+[92m2024-02-13 15:51:32,424 :INFO :test_teams :Team is created successfully[0m

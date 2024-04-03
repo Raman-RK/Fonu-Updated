@@ -1,0 +1,4 @@
+INFO     test_teams:test_teams.py:91 __Clicked on the create team.
+INFO     test_teams:test_teams.py:93 __Team name is entered.
+INFO     test_teams:test_teams.py:97 __Clicked on the submit button
+INFO     test_teams:test_teams.py:98 __Team without member is created successfully

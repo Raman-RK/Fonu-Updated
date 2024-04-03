@@ -4,7 +4,7 @@ import configparser
 
 class ReadConfig:
     config = configparser.ConfigParser()
-    config_file_path = os.path.join(os.path.dirname(__file__), 'config.ini')
+    config_file_path = os.path.join(os.path.dirname(__file__), '../data/config.ini')
 
     def __init__(self):
         self.config.read(self.config_file_path, encoding='utf-8')
@@ -73,7 +73,7 @@ class ReadConfig:
 
 class TeamReadConfig:
     config = configparser.ConfigParser()
-    config_file_path = os.path.join(os.path.dirname(__file__), 'config.ini')
+    config_file_path = os.path.join(os.path.dirname(__file__), '../data/config.ini')
 
     def __init__(self):
         self.config.read(self.config_file_path, encoding='utf-8')
@@ -167,5 +167,3 @@ class CallDetailsReadConfig(TeamReadConfig):
     def set_forwarding_all_text(self):
         text = self.config['set forwarding call details']['setForwardingText'].split('.')
         return text
-
-

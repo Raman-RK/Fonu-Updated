@@ -1,0 +1,528 @@
+2024-02-06 12:34:47,624 :INFO :test_signin :__Test One.
+2024-02-06 12:34:47,624 :INFO :test_signin :__Verifying Title.
+2024-02-06 12:34:48,441 :INFO :test_signin :__ Title.
+2024-02-06 12:34:58,595 :INFO :test_signin :____________Test Two__________
+2024-02-06 12:34:58,595 :INFO :test_signin :____________Test Two__________
+2024-02-06 12:34:58,732 :INFO :test_signin :__excepted text is same as actual text.
+2024-02-06 12:34:58,732 :INFO :test_signin :__excepted text is same as actual text.
+2024-02-06 12:34:58,750 :INFO :test_signin :__Test Three
+2024-02-06 12:34:58,750 :INFO :test_signin :__Test Three
+2024-02-06 12:34:58,750 :INFO :test_signin :__Test Three
+2024-02-06 12:35:03,161 :INFO :test_signin :__Test One
+2024-02-06 12:35:03,161 :INFO :test_signin :__Test One
+2024-02-06 12:35:03,161 :INFO :test_signin :__Test One
+2024-02-06 12:35:03,161 :INFO :test_signin :__Test One
+2024-02-06 12:35:03,267 :INFO :test_signin :__Url entered.
+2024-02-06 12:35:03,267 :INFO :test_signin :__Url entered.
+2024-02-06 12:35:03,267 :INFO :test_signin :__Url entered.
+2024-02-06 12:35:03,267 :INFO :test_signin :__Url entered.
+2024-02-06 12:35:03,626 :INFO :test_signin :__Number entered.
+2024-02-06 12:35:03,626 :INFO :test_signin :__Number entered.
+2024-02-06 12:35:03,626 :INFO :test_signin :__Number entered.
+2024-02-06 12:35:03,626 :INFO :test_signin :__Number entered.
+2024-02-06 12:35:03,870 :INFO :test_signin :__Password entered
+2024-02-06 12:35:03,870 :INFO :test_signin :__Password entered
+2024-02-06 12:35:03,870 :INFO :test_signin :__Password entered
+2024-02-06 12:35:03,870 :INFO :test_signin :__Password entered
+2024-02-06 12:35:04,053 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:04,053 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:04,053 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:04,053 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:05,074 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:05,074 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:05,074 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:05,074 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:05,957 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:05,957 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:05,957 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:05,957 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:09,558 :INFO :test_signin :__Clicked Send.
+2024-02-06 12:35:09,558 :INFO :test_signin :__Clicked Send.
+2024-02-06 12:35:09,558 :INFO :test_signin :__Clicked Send.
+2024-02-06 12:35:09,558 :INFO :test_signin :__Clicked Send.
+2024-02-06 12:35:09,701 :INFO :test_signin :__Entered verification Code.
+2024-02-06 12:35:09,701 :INFO :test_signin :__Entered verification Code.
+2024-02-06 12:35:09,701 :INFO :test_signin :__Entered verification Code.
+2024-02-06 12:35:09,701 :INFO :test_signin :__Entered verification Code.
+2024-02-06 12:35:09,765 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:09,765 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:09,765 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:35:09,765 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:50:57,152 :INFO :test_signin :__Test One.
+2024-02-06 12:50:57,153 :INFO :test_signin :__Verifying Title.
+2024-02-06 12:51:00,559 :INFO :test_signin :__ Title.
+2024-02-06 12:51:10,746 :INFO :test_signin :____________Test Two__________
+2024-02-06 12:51:10,913 :INFO :test_signin :__excepted text is same as actual text.
+2024-02-06 12:51:10,935 :INFO :test_signin :__Test Three
+2024-02-06 12:51:16,341 :INFO :test_signin :__Test One
+2024-02-06 12:51:16,735 :INFO :test_signin :__Url entered.
+2024-02-06 12:51:17,154 :INFO :test_signin :__Number entered.
+2024-02-06 12:51:17,466 :INFO :test_signin :__Password entered
+2024-02-06 12:51:17,664 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:51:18,674 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:51:19,535 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 12:51:23,066 :INFO :test_signin :__Clicked Send.
+2024-02-06 12:51:23,184 :INFO :test_signin :__Entered verification Code.
+2024-02-06 12:51:23,248 :INFO :test_signin :__Clicked Sign in.
+2024-02-06 13:52:35,604 :INFO :member_test :__Test One
+2024-02-06 13:52:35,604 :INFO :member_test :__Adding Member
+2024-02-06 13:52:37,097 :INFO :member_test :__Successful login
+2024-02-06 13:52:40,038 :INFO :member_test :____________Team on header is clicked.
+2024-02-06 13:52:42,150 :INFO :member_test :____________Clicked add member.
+2024-02-06 13:52:42,267 :INFO :member_test :____________First name is entered.
+2024-02-06 13:52:42,360 :INFO :member_test :____________Last name is entered.
+2024-02-06 13:52:42,508 :INFO :member_test :Email is entered.
+2024-02-06 13:52:42,635 :INFO :member_test :____________Phone number is entered
+2024-02-06 13:52:42,698 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 13:59:26,731 :INFO :member_test :__Test One
+2024-02-06 13:59:26,731 :INFO :member_test :__Adding Member
+2024-02-06 13:59:28,240 :INFO :member_test :__Successful login
+2024-02-06 13:59:31,119 :INFO :member_test :____________Team on header is clicked.
+2024-02-06 13:59:33,232 :INFO :member_test :____________Clicked add member.
+2024-02-06 13:59:33,363 :INFO :member_test :____________First name is entered.
+2024-02-06 13:59:33,459 :INFO :member_test :____________Last name is entered.
+2024-02-06 13:59:33,606 :INFO :member_test :Email is entered.
+2024-02-06 13:59:33,741 :INFO :member_test :____________Phone number is entered
+2024-02-06 13:59:33,804 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 13:59:36,011 :INFO :member_test :____________Selected the role
+2024-02-06 13:59:40,521 :INFO :member_test :__Member added successfully
+2024-02-06 13:59:41,265 :INFO :member_test :____________Clicked add member.
+2024-02-06 13:59:41,383 :INFO :member_test :____________First name is entered.
+2024-02-06 13:59:41,491 :INFO :member_test :____________Last name is entered.
+2024-02-06 13:59:41,686 :INFO :member_test :Email is entered.
+2024-02-06 13:59:41,827 :INFO :member_test :____________Phone number is entered
+2024-02-06 13:59:41,892 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 14:00:37,566 :INFO :member_test :__Test One
+2024-02-06 14:00:37,567 :INFO :member_test :__Adding Member
+2024-02-06 14:00:38,979 :INFO :member_test :__Successful login
+2024-02-06 14:00:42,028 :INFO :member_test :____________Team on header is clicked.
+2024-02-06 14:00:44,149 :INFO :member_test :____________Clicked add member.
+2024-02-06 14:00:44,257 :INFO :member_test :____________First name is entered.
+2024-02-06 14:00:44,359 :INFO :member_test :____________Last name is entered.
+2024-02-06 14:00:44,508 :INFO :member_test :Email is entered.
+2024-02-06 14:00:44,639 :INFO :member_test :____________Phone number is entered
+2024-02-06 14:00:44,700 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 14:00:46,894 :INFO :member_test :____________Selected the role
+2024-02-06 14:00:51,383 :INFO :member_test :__Member added successfully
+2024-02-06 14:00:52,079 :INFO :member_test :____________Clicked add member.
+2024-02-06 14:00:52,182 :INFO :member_test :____________First name is entered.
+2024-02-06 14:00:52,276 :INFO :member_test :____________Last name is entered.
+2024-02-06 14:00:52,421 :INFO :member_test :Email is entered.
+2024-02-06 14:00:52,547 :INFO :member_test :____________Phone number is entered
+2024-02-06 14:00:52,604 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 14:00:52,853 :INFO :member_test :____________Selected the role as member
+2024-02-06 14:00:57,394 :INFO :member_test :__Member added successfully
+2024-02-06 14:01:07,109 :INFO :member_test :__Clicked three dot menu.
+2024-02-06 14:05:43,792 :INFO :member_test :__Test One
+2024-02-06 14:05:43,793 :INFO :member_test :__Adding Member
+2024-02-06 14:05:45,407 :INFO :member_test :__Successful login
+2024-02-06 14:05:48,480 :INFO :member_test :____________Team on header is clicked.
+2024-02-06 14:05:50,574 :INFO :member_test :____________Clicked add member.
+2024-02-06 14:05:50,684 :INFO :member_test :____________First name is entered.
+2024-02-06 14:05:50,779 :INFO :member_test :____________Last name is entered.
+2024-02-06 14:05:50,933 :INFO :member_test :Email is entered.
+2024-02-06 14:05:51,061 :INFO :member_test :____________Phone number is entered
+2024-02-06 14:05:51,123 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 14:05:53,301 :INFO :member_test :____________Selected the role
+2024-02-06 14:05:57,781 :INFO :member_test :__Member added successfully
+2024-02-06 14:05:58,330 :INFO :member_test :____________Clicked add member.
+2024-02-06 14:05:58,432 :INFO :member_test :____________First name is entered.
+2024-02-06 14:05:58,528 :INFO :member_test :____________Last name is entered.
+2024-02-06 14:05:58,671 :INFO :member_test :Email is entered.
+2024-02-06 14:05:58,798 :INFO :member_test :____________Phone number is entered
+2024-02-06 14:05:58,869 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 14:05:59,092 :INFO :member_test :____________Selected the role as member
+2024-02-06 14:06:03,545 :INFO :member_test :__Member added successfully
+2024-02-06 14:06:13,224 :INFO :member_test :__Clicked three dot menu.
+2024-02-06 14:07:43,316 :INFO :member_test :__Test One
+2024-02-06 14:07:43,317 :INFO :member_test :__Adding Member
+2024-02-06 14:07:44,847 :INFO :member_test :__Successful login
+2024-02-06 14:07:47,727 :INFO :member_test :____________Team on header is clicked.
+2024-02-06 14:07:49,854 :INFO :member_test :____________Clicked add member.
+2024-02-06 14:07:49,968 :INFO :member_test :____________First name is entered.
+2024-02-06 14:07:50,062 :INFO :member_test :____________Last name is entered.
+2024-02-06 14:07:50,225 :INFO :member_test :Email is entered.
+2024-02-06 14:07:50,344 :INFO :member_test :____________Phone number is entered
+2024-02-06 14:07:50,408 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 14:07:52,617 :INFO :member_test :____________Selected the role
+2024-02-06 14:07:57,121 :INFO :member_test :__Member added successfully
+2024-02-06 14:07:57,712 :INFO :member_test :____________Clicked add member.
+2024-02-06 14:07:57,831 :INFO :member_test :____________First name is entered.
+2024-02-06 14:07:57,953 :INFO :member_test :____________Last name is entered.
+2024-02-06 14:07:58,121 :INFO :member_test :Email is entered.
+2024-02-06 14:07:58,337 :INFO :member_test :____________Phone number is entered
+2024-02-06 14:07:58,422 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-06 14:07:58,634 :INFO :member_test :____________Selected the role as member
+2024-02-06 14:08:03,102 :INFO :member_test :__Member added successfully
+2024-02-06 14:08:12,539 :INFO :member_test :__Clicked three dot menu.
+2024-02-06 16:54:57,685 :INFO :test_teams :__Test One
+2024-02-06 16:54:57,686 :INFO :test_teams :__Adding Member
+2024-02-06 16:54:59,083 :INFO :test_teams :__Successful login
+2024-02-06 16:55:01,907 :INFO :test_teams :____________Team on header is clicked.
+2024-02-06 16:55:04,146 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-06 16:55:04,236 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 16:55:04,888 :INFO :test_teams :__Team name is entered.
+2024-02-06 16:55:04,955 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-06 18:34:11,826 :INFO :test_teams :__Test One
+2024-02-06 18:34:11,827 :INFO :test_teams :__Adding Member
+2024-02-06 18:34:13,264 :INFO :test_teams :__Successful login
+2024-02-06 18:34:16,105 :INFO :test_teams :____________Team on header is clicked.
+2024-02-06 18:34:18,335 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-06 18:34:18,432 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 18:34:18,551 :INFO :test_teams :__Team name is entered.
+2024-02-06 18:34:18,697 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-06 18:43:52,521 :INFO :test_teams :__Test One
+2024-02-06 18:43:52,521 :INFO :test_teams :__Adding Member
+2024-02-06 18:43:53,955 :INFO :test_teams :__Successful login
+2024-02-06 18:43:56,683 :INFO :test_teams :____________Team on header is clicked.
+2024-02-06 18:43:58,905 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-06 18:43:59,007 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 18:43:59,144 :INFO :test_teams :__Team name is entered.
+2024-02-06 18:43:59,280 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-06 18:44:45,761 :INFO :test_teams :__Test One
+2024-02-06 18:44:45,761 :INFO :test_teams :__Adding Member
+2024-02-06 18:44:47,067 :INFO :test_teams :__Successful login
+2024-02-06 18:44:49,820 :INFO :test_teams :____________Team on header is clicked.
+2024-02-06 18:44:52,072 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-06 18:44:52,177 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 18:44:52,303 :INFO :test_teams :__Team name is entered.
+2024-02-06 18:44:52,489 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-06 18:47:37,384 :INFO :test_teams :__Test One
+2024-02-06 18:47:37,384 :INFO :test_teams :__Adding Member
+2024-02-06 18:47:38,757 :INFO :test_teams :__Successful login
+2024-02-06 18:47:41,542 :INFO :test_teams :____________Team on header is clicked.
+2024-02-06 18:47:43,758 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-06 18:47:43,852 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 18:47:43,980 :INFO :test_teams :__Team name is entered.
+2024-02-06 18:47:44,129 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-06 18:51:39,011 :INFO :test_teams :__Test One
+2024-02-06 18:51:39,012 :INFO :test_teams :__Adding Member
+2024-02-06 18:51:40,332 :INFO :test_teams :__Successful login
+2024-02-06 18:51:43,091 :INFO :test_teams :____________Team on header is clicked.
+2024-02-06 18:51:45,298 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-06 18:51:45,407 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 18:51:45,551 :INFO :test_teams :__Team name is entered.
+2024-02-06 18:51:45,691 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-06 18:52:16,010 :INFO :test_teams :__Test One
+2024-02-06 18:52:16,011 :INFO :test_teams :__Adding Member
+2024-02-06 18:52:17,355 :INFO :test_teams :__Successful login
+2024-02-06 18:52:20,065 :INFO :test_teams :____________Team on header is clicked.
+2024-02-06 18:52:22,296 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-06 18:52:22,398 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 18:52:22,514 :INFO :test_teams :__Team name is entered.
+2024-02-06 18:52:22,597 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-06 18:53:33,680 :INFO :test_teams :__Test One
+2024-02-06 18:53:33,681 :INFO :test_teams :__Adding Member
+2024-02-06 18:53:35,164 :INFO :test_teams :__Successful login
+2024-02-06 18:53:37,818 :INFO :test_teams :____________Team on header is clicked.
+2024-02-06 18:53:40,054 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-06 18:53:40,161 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 18:53:40,299 :INFO :test_teams :__Team name is entered.
+2024-02-06 18:53:40,443 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-06 18:53:46,761 :INFO :test_teams :__Selected on member.
+2024-02-06 18:53:48,993 :INFO :test_teams :Team is created successfully
+2024-02-06 18:53:51,076 :INFO :test_teams :__Clicked on the create team.
+2024-02-06 18:53:51,199 :INFO :test_teams :__Team name is entered.
+2024-02-06 18:53:53,297 :INFO :test_teams :__Clicked on the submit button
+2024-02-06 18:53:53,297 :INFO :test_teams :__Team without member is created successfully
+2024-02-06 18:53:53,947 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-06 18:53:54,030 :INFO :test_teams :__Clicked on edit team
+2024-02-06 18:53:54,138 :INFO :test_teams :__Team name is changed
+2024-02-06 18:53:54,202 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-09 11:34:51,298 :INFO :member_test :__Test One
+2024-02-09 11:34:51,299 :INFO :member_test :__Adding Member
+2024-02-09 11:34:52,964 :INFO :member_test :__Successful login
+2024-02-09 11:34:55,793 :INFO :member_test :____________Team on header is clicked.
+2024-02-09 11:34:57,907 :INFO :member_test :____________Clicked add member.
+2024-02-09 11:34:58,015 :INFO :member_test :____________First name is entered.
+2024-02-09 11:34:58,114 :INFO :member_test :____________Last name is entered.
+2024-02-09 11:34:58,267 :INFO :member_test :Email is entered.
+2024-02-09 11:34:58,398 :INFO :member_test :____________Phone number is entered
+2024-02-09 11:34:58,458 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-09 11:35:00,643 :INFO :member_test :____________Selected the role
+2024-02-09 11:35:05,087 :INFO :member_test :__Member added successfully
+2024-02-09 11:35:05,958 :INFO :member_test :____________Clicked add member.
+2024-02-09 11:35:06,082 :INFO :member_test :____________First name is entered.
+2024-02-09 11:35:06,203 :INFO :member_test :____________Last name is entered.
+2024-02-09 11:35:06,362 :INFO :member_test :Email is entered.
+2024-02-09 11:35:06,518 :INFO :member_test :____________Phone number is entered
+2024-02-09 11:35:06,599 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-09 11:35:06,870 :INFO :member_test :____________Selected the role as member
+2024-02-09 11:35:11,347 :INFO :member_test :__Member added successfully
+2024-02-09 11:35:17,613 :INFO :member_test :__Clicked three dot menu.
+2024-02-09 13:11:17,427 :INFO :member_test :__Test One
+2024-02-09 13:11:17,428 :INFO :member_test :__Adding Member
+2024-02-09 13:11:19,427 :INFO :member_test :__Successful login
+2024-02-09 13:11:22,142 :INFO :member_test :____________Team on header is clicked.
+2024-02-09 13:11:24,255 :INFO :member_test :____________Clicked add member.
+2024-02-09 13:11:24,365 :INFO :member_test :____________First name is entered.
+2024-02-09 13:11:24,461 :INFO :member_test :____________Last name is entered.
+2024-02-09 13:11:24,624 :INFO :member_test :Email is entered.
+2024-02-09 13:11:24,740 :INFO :member_test :____________Phone number is entered
+2024-02-09 13:11:24,800 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-09 13:11:26,985 :INFO :member_test :____________Selected the role
+2024-02-09 13:11:31,462 :INFO :member_test :__Member added successfully
+2024-02-09 13:11:32,250 :INFO :member_test :____________Clicked add member.
+2024-02-09 13:11:32,445 :INFO :member_test :____________First name is entered.
+2024-02-09 13:11:32,595 :INFO :member_test :____________Last name is entered.
+2024-02-09 13:11:32,776 :INFO :member_test :Email is entered.
+2024-02-09 13:11:32,924 :INFO :member_test :____________Phone number is entered
+2024-02-09 13:11:32,977 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-09 13:11:33,234 :INFO :member_test :____________Selected the role as member
+2024-02-09 13:11:37,732 :INFO :member_test :__Member added successfully
+2024-02-09 13:28:27,997 :INFO :test_teams :__Test One
+2024-02-09 13:28:27,998 :INFO :test_teams :__Adding Member
+2024-02-09 13:28:29,405 :INFO :test_teams :__Successful login
+2024-02-09 13:28:32,270 :INFO :test_teams :____________Team on header is clicked.
+2024-02-09 13:28:34,501 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-09 13:28:34,612 :INFO :test_teams :__Clicked on the create team.
+2024-02-09 13:28:34,750 :INFO :test_teams :__Team name is entered.
+2024-02-09 13:28:34,887 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-09 13:28:41,155 :INFO :test_teams :__Selected on member.
+2024-02-09 13:28:43,314 :INFO :test_teams :Team is created successfully
+2024-02-09 13:28:45,438 :INFO :test_teams :__Clicked on the create team.
+2024-02-09 13:28:45,553 :INFO :test_teams :__Team name is entered.
+2024-02-09 13:28:47,663 :INFO :test_teams :__Clicked on the submit button
+2024-02-09 13:28:47,664 :INFO :test_teams :__Team without member is created successfully
+2024-02-09 13:28:48,370 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-09 13:28:48,465 :INFO :test_teams :__Clicked on edit team
+2024-02-09 13:28:48,567 :INFO :test_teams :__Team name is changed
+2024-02-09 13:28:48,630 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-09 15:27:56,533 :INFO :test_teams :__Test One
+2024-02-09 15:27:56,534 :INFO :test_teams :__Adding Member
+2024-02-09 15:28:01,071 :INFO :test_teams :__Successful login
+2024-02-09 15:28:05,518 :INFO :test_teams :____________Team on header is clicked.
+2024-02-09 15:28:07,741 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-09 15:28:07,850 :INFO :test_teams :__Clicked on the create team.
+2024-02-09 15:28:08,056 :INFO :test_teams :__Team name is entered.
+2024-02-09 15:28:08,242 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-09 15:28:14,483 :INFO :test_teams :__Selected on member.
+2024-02-09 15:28:16,637 :INFO :test_teams :Team is created successfully
+2024-02-09 15:28:18,774 :INFO :test_teams :__Clicked on the create team.
+2024-02-09 15:28:18,888 :INFO :test_teams :__Team name is entered.
+2024-02-09 15:28:21,020 :INFO :test_teams :__Clicked on the submit button
+2024-02-09 15:28:21,021 :INFO :test_teams :__Team without member is created successfully
+2024-02-09 15:28:21,706 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-09 15:28:21,795 :INFO :test_teams :__Clicked on edit team
+2024-02-09 15:28:21,901 :INFO :test_teams :__Team name is changed
+2024-02-09 15:28:21,971 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-09 15:29:23,659 :INFO :test_teams :__Test One
+2024-02-09 15:29:23,660 :INFO :test_teams :__Adding Member
+2024-02-09 15:29:25,481 :INFO :test_teams :__Successful login
+2024-02-09 15:29:28,663 :INFO :test_teams :____________Team on header is clicked.
+2024-02-09 15:29:30,873 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-09 15:29:30,975 :INFO :test_teams :__Clicked on the create team.
+2024-02-09 15:29:31,122 :INFO :test_teams :__Team name is entered.
+2024-02-09 15:29:31,247 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-09 15:29:37,482 :INFO :test_teams :__Selected on member.
+2024-02-09 15:29:39,643 :INFO :test_teams :Team is created successfully
+2024-02-09 15:29:41,758 :INFO :test_teams :__Clicked on the create team.
+2024-02-09 15:29:41,874 :INFO :test_teams :__Team name is entered.
+2024-02-09 15:29:43,995 :INFO :test_teams :__Clicked on the submit button
+2024-02-09 15:29:43,995 :INFO :test_teams :__Team without member is created successfully
+2024-02-09 15:29:44,665 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-09 15:29:44,748 :INFO :test_teams :__Clicked on edit team
+2024-02-09 15:29:44,863 :INFO :test_teams :__Team name is changed
+2024-02-09 15:29:44,944 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-09 15:29:45,253 :INFO :test_teams :__members from the dropdown are modified
+2024-02-09 15:29:45,304 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-09 15:29:47,424 :INFO :test_teams :__Clicked on the Create Team
+2024-02-09 15:29:49,742 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-09 15:29:49,837 :INFO :test_teams :__Clicked on invite to team
+2024-02-09 15:29:51,991 :INFO :test_teams :__Clicked on send invite
+2024-02-09 15:30:55,070 :INFO :test_teams :__Test One
+2024-02-09 15:30:55,071 :INFO :test_teams :__Adding Member
+2024-02-09 15:30:56,482 :INFO :test_teams :__Successful login
+2024-02-09 15:30:59,350 :INFO :test_teams :____________Team on header is clicked.
+2024-02-09 15:31:01,593 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-09 15:31:01,692 :INFO :test_teams :__Clicked on the create team.
+2024-02-09 15:31:01,840 :INFO :test_teams :__Team name is entered.
+2024-02-09 15:31:01,968 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-09 15:31:08,222 :INFO :test_teams :__Selected on member.
+2024-02-09 15:31:10,352 :INFO :test_teams :Team is created successfully
+2024-02-09 15:31:12,463 :INFO :test_teams :__Clicked on the create team.
+2024-02-09 15:31:12,576 :INFO :test_teams :__Team name is entered.
+2024-02-09 15:31:14,681 :INFO :test_teams :__Clicked on the submit button
+2024-02-09 15:31:14,681 :INFO :test_teams :__Team without member is created successfully
+2024-02-09 15:31:15,349 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-09 15:31:15,430 :INFO :test_teams :__Clicked on edit team
+2024-02-09 15:31:15,531 :INFO :test_teams :__Team name is changed
+2024-02-09 15:31:15,592 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-09 15:31:15,903 :INFO :test_teams :__members from the dropdown are modified
+2024-02-09 15:31:15,979 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-09 15:31:18,086 :INFO :test_teams :__Clicked on the Create Team
+2024-02-09 15:31:20,412 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-09 15:31:20,500 :INFO :test_teams :__Clicked on invite to team
+2024-02-09 15:31:22,634 :INFO :test_teams :__Clicked on send invite
+2024-02-09 15:57:04,031 :INFO :member_test :__Test One
+2024-02-09 15:57:04,032 :INFO :member_test :__Adding Member
+2024-02-09 15:57:13,802 :INFO :member_test :__Test One
+2024-02-09 15:57:13,802 :INFO :member_test :__Adding Member
+2024-02-09 15:57:15,330 :INFO :member_test :__Successful login
+2024-02-09 15:57:18,284 :INFO :member_test :____________Team on header is clicked.
+2024-02-09 15:57:20,395 :INFO :member_test :____________Clicked add member.
+2024-02-09 15:57:20,518 :INFO :member_test :____________First name is entered.
+2024-02-09 15:57:20,634 :INFO :member_test :____________Last name is entered.
+2024-02-09 15:57:20,774 :INFO :member_test :Email is entered.
+2024-02-09 15:57:20,887 :INFO :member_test :____________Phone number is entered
+2024-02-09 15:57:20,947 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-09 15:57:23,142 :INFO :member_test :____________Selected the role
+2024-02-09 15:57:27,612 :INFO :member_test :__Member added successfully
+2024-02-09 15:57:28,260 :INFO :member_test :____________Clicked add member.
+2024-02-09 15:57:28,383 :INFO :member_test :____________First name is entered.
+2024-02-09 15:57:28,504 :INFO :member_test :____________Last name is entered.
+2024-02-09 15:57:28,684 :INFO :member_test :Email is entered.
+2024-02-09 15:57:28,825 :INFO :member_test :____________Phone number is entered
+2024-02-09 15:57:28,894 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-09 15:57:29,153 :INFO :member_test :____________Selected the role as member
+2024-02-09 15:57:33,666 :INFO :member_test :__Member added successfully
+2024-02-09 15:59:04,746 :INFO :member_test :__Test One
+2024-02-09 15:59:04,747 :INFO :member_test :__Adding Member
+2024-02-09 15:59:06,314 :INFO :member_test :__Successful login
+2024-02-09 15:59:09,124 :INFO :member_test :____________Team on header is clicked.
+2024-02-09 15:59:11,241 :INFO :member_test :____________Clicked add member.
+2024-02-09 15:59:11,373 :INFO :member_test :____________First name is entered.
+2024-02-09 15:59:11,474 :INFO :member_test :____________Last name is entered.
+2024-02-09 15:59:11,615 :INFO :member_test :Email is entered.
+2024-02-09 15:59:11,733 :INFO :member_test :____________Phone number is entered
+2024-02-09 15:59:11,791 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-09 15:59:14,005 :INFO :member_test :____________Selected the role
+2024-02-09 15:59:18,442 :INFO :member_test :__Member added successfully
+2024-02-09 15:59:19,030 :INFO :member_test :____________Clicked add member.
+2024-02-09 15:59:19,148 :INFO :member_test :____________First name is entered.
+2024-02-09 15:59:19,247 :INFO :member_test :____________Last name is entered.
+2024-02-09 15:59:19,445 :INFO :member_test :Email is entered.
+2024-02-09 15:59:19,619 :INFO :member_test :____________Phone number is entered
+2024-02-09 15:59:19,694 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-09 15:59:19,986 :INFO :member_test :____________Selected the role as member
+2024-02-09 15:59:24,454 :INFO :member_test :__Member added successfully
+2024-02-13 15:23:28,067 :INFO :test_signin :__Test One.
+2024-02-13 15:23:28,068 :INFO :test_signin :__Verifying Title.
+2024-02-13 15:23:31,562 :INFO :test_signin :__ Title.
+2024-02-13 15:23:41,718 :INFO :test_signin :____________Test Two__________
+2024-02-13 15:23:41,958 :INFO :test_signin :__excepted text is same as actual text.
+2024-02-13 15:23:41,997 :INFO :test_signin :__Test Three
+2024-02-13 15:23:46,396 :INFO :test_signin :__Test One
+2024-02-13 15:23:46,527 :INFO :test_signin :__Url entered.
+2024-02-13 15:23:46,890 :INFO :test_signin :__Number entered.
+2024-02-13 15:23:47,121 :INFO :test_signin :__Password entered
+2024-02-13 15:23:47,349 :INFO :test_signin :__Clicked Sign in.
+2024-02-13 15:23:48,462 :INFO :test_signin :__Clicked Sign in.
+2024-02-13 15:23:49,407 :INFO :test_signin :__Clicked Sign in.
+2024-02-13 15:23:53,098 :INFO :test_signin :__Clicked Send.
+2024-02-13 15:23:53,223 :INFO :test_signin :__Entered verification Code.
+2024-02-13 15:23:53,287 :INFO :test_signin :__Clicked Sign in.
+2024-02-13 15:24:05,528 :INFO :test_teams :__Test One
+2024-02-13 15:24:05,528 :INFO :test_teams :__Adding Member
+2024-02-13 15:24:07,314 :INFO :test_teams :__Successful login
+2024-02-13 15:24:11,629 :INFO :test_teams :____________Team on header is clicked.
+2024-02-13 15:24:13,897 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-13 15:24:14,006 :INFO :test_teams :__Clicked on the create team.
+2024-02-13 15:24:14,127 :INFO :test_teams :__Team name is entered.
+2024-02-13 15:24:14,224 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-13 15:24:20,467 :INFO :test_teams :__Selected on member.
+2024-02-13 15:24:22,607 :INFO :test_teams :Team is created successfully
+2024-02-13 15:24:24,719 :INFO :test_teams :__Clicked on the create team.
+2024-02-13 15:24:24,835 :INFO :test_teams :__Team name is entered.
+2024-02-13 15:24:26,974 :INFO :test_teams :__Clicked on the submit button
+2024-02-13 15:24:26,975 :INFO :test_teams :__Team without member is created successfully
+2024-02-13 15:24:27,643 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-13 15:24:27,743 :INFO :test_teams :__Clicked on edit team
+2024-02-13 15:24:27,871 :INFO :test_teams :__Team name is changed
+2024-02-13 15:24:27,956 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-13 15:24:44,323 :INFO :member_test :__Test One
+2024-02-13 15:24:44,323 :INFO :member_test :__Adding Member
+2024-02-13 15:24:47,779 :INFO :member_test :__Successful login
+2024-02-13 15:24:50,849 :INFO :member_test :____________Team on header is clicked.
+2024-02-13 15:24:52,961 :INFO :member_test :____________Clicked add member.
+2024-02-13 15:24:53,087 :INFO :member_test :____________First name is entered.
+2024-02-13 15:24:53,350 :INFO :member_test :____________Last name is entered.
+2024-02-13 15:24:53,588 :INFO :member_test :Email is entered.
+2024-02-13 15:24:53,761 :INFO :member_test :____________Phone number is entered
+2024-02-13 15:24:53,862 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-13 15:24:56,226 :INFO :member_test :____________Selected the role
+2024-02-13 15:25:00,741 :INFO :member_test :__Member added successfully
+2024-02-13 15:25:00,916 :INFO :member_test :____________Clicked add member.
+2024-02-13 15:25:01,041 :INFO :member_test :____________First name is entered.
+2024-02-13 15:25:01,156 :INFO :member_test :____________Last name is entered.
+2024-02-13 15:25:01,328 :INFO :member_test :Email is entered.
+2024-02-13 15:25:01,594 :INFO :member_test :____________Phone number is entered
+2024-02-13 15:25:01,677 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-13 15:25:02,014 :INFO :member_test :____________Selected the role as member
+2024-02-13 15:25:06,459 :INFO :member_test :__Member added successfully
+2024-02-13 15:50:19,567 :INFO :member_test :__Test One
+2024-02-13 15:50:19,568 :INFO :member_test :__Adding Member
+2024-02-13 15:50:22,016 :INFO :member_test :__Successful login
+2024-02-13 15:50:22,623 :INFO :test_signin :__Test One.
+2024-02-13 15:50:22,624 :INFO :test_signin :__Verifying Title.
+2024-02-13 15:50:24,018 :INFO :test_signin :__ Title.
+2024-02-13 15:50:25,244 :INFO :member_test :____________Team on header is clicked.
+2024-02-13 15:50:27,485 :INFO :member_test :____________Clicked add member.
+2024-02-13 15:50:27,604 :INFO :member_test :____________First name is entered.
+2024-02-13 15:50:27,712 :INFO :member_test :____________Last name is entered.
+2024-02-13 15:50:27,866 :INFO :member_test :Email is entered.
+2024-02-13 15:50:28,003 :INFO :member_test :____________Phone number is entered
+2024-02-13 15:50:28,087 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-13 15:50:30,362 :INFO :member_test :____________Selected the role
+2024-02-13 15:50:34,260 :INFO :test_signin :____________Test Two__________
+2024-02-13 15:50:34,482 :INFO :test_signin :__excepted text is same as actual text.
+2024-02-13 15:50:34,517 :INFO :test_signin :__Test Three
+2024-02-13 15:50:34,838 :INFO :member_test :__Member added successfully
+2024-02-13 15:50:36,818 :INFO :member_test :____________Clicked add member.
+2024-02-13 15:50:36,972 :INFO :member_test :____________First name is entered.
+2024-02-13 15:50:37,101 :INFO :member_test :____________Last name is entered.
+2024-02-13 15:50:37,294 :INFO :member_test :Email is entered.
+2024-02-13 15:50:37,467 :INFO :member_test :____________Phone number is entered
+2024-02-13 15:50:37,547 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-13 15:50:37,847 :INFO :member_test :____________Selected the role as member
+2024-02-13 15:50:39,588 :INFO :test_signin :__Test One
+2024-02-13 15:50:39,736 :INFO :test_signin :__Url entered.
+2024-02-13 15:50:40,156 :INFO :test_signin :__Number entered.
+2024-02-13 15:50:40,410 :INFO :test_signin :__Password entered
+2024-02-13 15:50:40,632 :INFO :test_signin :__Clicked Sign in.
+2024-02-13 15:50:41,793 :INFO :test_signin :__Clicked Sign in.
+2024-02-13 15:50:42,329 :INFO :member_test :__Member added successfully
+2024-02-13 15:50:42,719 :INFO :test_signin :__Clicked Sign in.
+2024-02-13 15:50:46,358 :INFO :test_signin :__Clicked Send.
+2024-02-13 15:50:46,493 :INFO :test_signin :__Entered verification Code.
+2024-02-13 15:50:46,618 :INFO :test_signin :__Clicked Sign in.
+2024-02-13 15:50:59,948 :INFO :test_teams :__Test One
+2024-02-13 15:50:59,948 :INFO :test_teams :__Adding Member
+2024-02-13 15:51:01,778 :INFO :test_teams :__Successful login
+2024-02-13 15:51:04,784 :INFO :test_teams :____________Team on header is clicked.
+2024-02-13 15:51:07,015 :INFO :test_teams :__Clicked on the teams in sidebar
+2024-02-13 15:51:07,117 :INFO :test_teams :__Clicked on the create team.
+2024-02-13 15:51:07,254 :INFO :test_teams :__Team name is entered.
+2024-02-13 15:51:07,347 :INFO :test_teams :__Clicked on 'Select dropdown'
+2024-02-13 15:51:30,278 :INFO :test_teams :__Selected on member.
+2024-02-13 15:51:32,424 :INFO :test_teams :Team is created successfully
+2024-02-13 15:51:34,526 :INFO :test_teams :__Clicked on the create team.
+2024-02-13 15:51:34,649 :INFO :test_teams :__Team name is entered.
+2024-02-13 15:51:36,757 :INFO :test_teams :__Clicked on the submit button
+2024-02-13 15:51:36,758 :INFO :test_teams :__Team without member is created successfully
+2024-02-13 15:51:37,452 :INFO :test_teams :__Three dot menu of First team is selected
+2024-02-13 15:51:37,544 :INFO :test_teams :__Clicked on edit team
+2024-02-13 15:51:37,659 :INFO :test_teams :__Team name is changed
+2024-02-13 15:51:37,727 :INFO :test_teams :__Clicked on the member dropdown
+2024-02-13 15:51:53,130 :INFO :member_test :__Test One
+2024-02-13 15:51:53,131 :INFO :member_test :__Adding Member
+2024-02-13 15:51:55,199 :INFO :member_test :__Successful login
+2024-02-13 15:51:58,231 :INFO :member_test :____________Team on header is clicked.
+2024-02-13 15:52:00,516 :INFO :member_test :____________Clicked add member.
+2024-02-13 15:52:00,668 :INFO :member_test :____________First name is entered.
+2024-02-13 15:52:00,761 :INFO :member_test :____________Last name is entered.
+2024-02-13 15:52:00,919 :INFO :member_test :Email is entered.
+2024-02-13 15:52:01,056 :INFO :member_test :____________Phone number is entered
+2024-02-13 15:52:01,120 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-13 15:52:03,395 :INFO :member_test :____________Selected the role
+2024-02-13 15:52:07,824 :INFO :member_test :__Member added successfully
+2024-02-13 15:52:08,061 :INFO :member_test :____________Clicked add member.
+2024-02-13 15:52:08,250 :INFO :member_test :____________First name is entered.
+2024-02-13 15:52:08,428 :INFO :member_test :____________Last name is entered.
+2024-02-13 15:52:08,618 :INFO :member_test :Email is entered.
+2024-02-13 15:52:08,802 :INFO :member_test :____________Phone number is entered
+2024-02-13 15:52:08,885 :INFO :member_test :____________Clicked on dropdown to select the role
+2024-02-13 15:52:09,159 :INFO :member_test :____________Selected the role as member
+2024-02-13 15:52:13,698 :INFO :member_test :__Member added successfully
+2024-02-16 15:52:49,738 :INFO :test_number :__Successful login
+2024-02-16 15:54:38,999 :INFO :test_number :__Successful login
