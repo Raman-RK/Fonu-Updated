@@ -7,7 +7,7 @@ from signin.page import SignInPage
 from helpers.base_page import Base
 
 
-class TestTeam():
+class TestTeam:
     config_reader = TeamReadConfig()
     l_name = config_reader.add_member_l_name()
     config_reader1 = ReadConfig()

@@ -1,1 +1,0 @@
-{"uuid": "abb68410-e927-4e86-b263-fff6007b2da6", "children": ["0cd9bdca-cb49-428e-850b-2eb4430b68c0"], "befores": [{"name": "block_network", "status": "passed", "start": 1707819646631, "stop": 1707819646631}], "afters": [{"name": "block_network::0", "status": "passed", "start": 1707819657946, "stop": 1707819657946}], "start": 1707819646631, "stop": 1707819657947}

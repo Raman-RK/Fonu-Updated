@@ -1,4 +1,0 @@
-[92m2024-02-13 15:50:59,948 :INFO :test_teams :__Test One[0m
-[92m2024-02-13 15:50:59,948 :INFO :test_teams :__Adding Member[0m
-[92m2024-02-13 15:51:01,778 :INFO :test_teams :__Successful login[0m
-[92m2024-02-13 15:51:04,784 :INFO :test_teams :____________Team on header is clicked.[0m

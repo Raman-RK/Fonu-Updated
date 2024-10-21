@@ -1,6 +1,0 @@
-INFO     test_teams:test_teams.py:68 __Clicked on the teams in sidebar
-INFO     test_teams:test_teams.py:70 __Clicked on the create team.
-INFO     test_teams:test_teams.py:72 __Team name is entered.
-INFO     test_teams:test_teams.py:74 __Clicked on 'Select dropdown'
-INFO     test_teams:test_teams.py:78 __Selected on member.
-INFO     test_teams:test_teams.py:81 Team is created successfully

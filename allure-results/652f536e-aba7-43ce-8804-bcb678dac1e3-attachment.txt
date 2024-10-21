@@ -1,8 +1,0 @@
-[92m2024-02-13 15:52:08,061 :INFO :member_test :____________Clicked add member.[0m
-[92m2024-02-13 15:52:08,250 :INFO :member_test :____________First name is entered.[0m
-[92m2024-02-13 15:52:08,428 :INFO :member_test :____________Last name is entered.[0m
-[92m2024-02-13 15:52:08,618 :INFO :member_test :Email is entered.[0m
-[92m2024-02-13 15:52:08,802 :INFO :member_test :____________Phone number is entered[0m
-[92m2024-02-13 15:52:08,885 :INFO :member_test :____________Clicked on dropdown to select the role[0m
-[92m2024-02-13 15:52:09,159 :INFO :member_test :____________Selected the role as member[0m
-[92m2024-02-13 15:52:13,698 :INFO :member_test :__Member added successfully[0m

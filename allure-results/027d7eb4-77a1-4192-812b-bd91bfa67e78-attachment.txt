@@ -1,4 +1,0 @@
-[92m2024-02-13 15:51:37,452 :INFO :test_teams :__Three dot menu of First team is selected[0m
-[92m2024-02-13 15:51:37,544 :INFO :test_teams :__Clicked on edit team[0m
-[92m2024-02-13 15:51:37,659 :INFO :test_teams :__Team name is changed[0m
-[92m2024-02-13 15:51:37,727 :INFO :test_teams :__Clicked on the member dropdown[0m

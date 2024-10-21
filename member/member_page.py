@@ -7,7 +7,6 @@ from team.test_teams import TestTeam
 
 
 class MemberPage(CommonClass):
-    bp = Base()
 
     def close_small_window(self):
         self.click_element('XPATH', '//div[text() = "Skip for now"]')

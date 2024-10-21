@@ -1,4 +1,0 @@
-INFO     test_teams:test_teams.py:109 __Three dot menu of First team is selected
-INFO     test_teams:test_teams.py:111 __Clicked on edit team
-INFO     test_teams:test_teams.py:113 __Team name is changed
-INFO     test_teams:test_teams.py:115 __Clicked on the member dropdown

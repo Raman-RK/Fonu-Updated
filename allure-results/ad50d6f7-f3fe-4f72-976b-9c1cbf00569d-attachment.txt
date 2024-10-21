@@ -1,7 +1,0 @@
-['Abhishek', 'K']
-['Hitesh', 'K']
-['Sandeep', 'K']
-['Raman', 'K']
-['Raman', 'Test']
-[['Abhishek', 'K'], ['Hitesh', 'K'], ['Sandeep', 'K'], ['Raman', 'K'], ['Raman', 'Test']]
-['\nAbhishek K', '\nHitesh K', '\nSandeep K', '\nRaman K', '\nRaman Test']
